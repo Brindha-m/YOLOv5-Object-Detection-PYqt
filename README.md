@@ -10,7 +10,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
-![image](https://user-images.githubusercontent.com/72887609/136672403-1a514a81-177a-4c60-8c51-0f751004694b.png)
 
 `In Partial Dark Conditions`
 
