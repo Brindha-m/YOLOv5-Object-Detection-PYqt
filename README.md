@@ -16,10 +16,12 @@ python main.py
 ![image](https://user-images.githubusercontent.com/72887609/136672445-54c5cdc1-adce-4fb6-bed4-96e728c2cb62.png)
 
 
-`STREAMLIT` DETECTIONS
+
+
+SOME OF MY `STREAMLIT` DETECTIONS
 
 ![image](https://user-images.githubusercontent.com/72887609/136673024-f2635ece-fb72-429b-8f25-f974fcc75779.png)
 
 
 
-SOON DETECTIONS `FLASK`
+SOON DETECTIONS CODE `STREAMLIT` AND `FLASK`
